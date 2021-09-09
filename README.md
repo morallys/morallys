@@ -1,8 +1,8 @@
 ### I'm Juan! Web dev student
 
-:house_with_garden:  I’m from Brazil.
-:books:  I’m currently learning programming 
-:outbox_tray: 2021/2022 Goals: Finish the course at Trybe
+#### :house_with_garden:  I’m from Brazil.
+#### :books:  I’m currently learning programming 
+#### :outbox_tray: 2021/2022 Goals: Finish the course at Trybe
 
 ![Juan Morallys Status](https://github-readme-stats.vercel.app/api?username=morallys&show_icons=true&theme=radical)
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=morallys&layout=compact&theme=radical)
