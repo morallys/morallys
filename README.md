@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **programming at Trybe**
 
-- 📝 I regularly write articles on [https://morallys.github.io/](https://morallys.github.io/)
+- 👨‍💻 All of my projects are available at [https://morallys.github.io/](https://morallys.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
