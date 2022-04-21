@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Morallys</h1>
-<h3 align="center">I'm passionate about technology, programming was a way I found to create things and be fascinated every day to make it possible.</h3>
+<h3 align="center">I'm passionate about technology, programming was a way I found it to create things and be fascinated every day to make it possible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morallys&label=Profile%20views&color=0eb493&style=plastic" alt="morallys" /> </p>
 
